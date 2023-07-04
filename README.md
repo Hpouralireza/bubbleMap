@@ -1,5 +1,5 @@
 # bubbleMap
-### Showing the population of German cities in the form of a bubble map(With GeoPandas)
+### Displaying the population of German cities in the form of a bubble map (with GeoPandas)
 
 First, we cleaned the data that we had extracted from our dataset,
 then after selecting the map shape and some settings in GeoPandas, we displayed it
